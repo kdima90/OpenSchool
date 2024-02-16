@@ -11,5 +11,5 @@ Since project will be built with microservices you will find links to related se
 https://github.com/kdima90/OpenSchool-Frondend
 
 ### Backend(s):
-https://github.com/kdima90/OpenSchool-Core
+https://github.com/kdima90/OpenSchool-Core \
 https://github.com/kdima90/OpenSchool-Apigatway
