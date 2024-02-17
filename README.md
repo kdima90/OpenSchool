@@ -8,7 +8,7 @@ Since project will be built with microservices you will find links to related se
 ## TL;TR Microservices:
 
 ### Frondend
-https://github.com/kdima90/OpenSchool-Frondend
+https://github.com/kdima90/OpenSchool-Frondend ![OpenSchool-Frondend](https://github.com/kdima90/OpenSchool-Frondend/actions/workflows/github-actions.yml/badge.svg)
 
 ### Backend(s):
 https://github.com/kdima90/OpenSchool-Core \
