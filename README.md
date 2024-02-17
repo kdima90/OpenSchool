@@ -5,7 +5,7 @@ The OpenSchool is small project to manage school related data, like the amount o
 
 Since project will be built with microservices you will find links to related service in that repository.
 
-## TL;TR Microservices:
+## TL;TR microservices:
 
 ### Frondend
 ![OpenSchool-Frondend](https://github.com/kdima90/OpenSchool-Frondend/actions/workflows/github-actions.yml/badge.svg)  https://github.com/kdima90/OpenSchool-Frondend
