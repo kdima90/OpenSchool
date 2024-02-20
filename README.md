@@ -13,3 +13,6 @@ Since project will be built with microservices you will find links to related se
 ### Backend(s):
 ![OpenSchool-Core](https://github.com/kdima90/OpenSchool-Core/actions/workflows/github-actions.yml/badge.svg) https://github.com/kdima90/OpenSchool-Core \
 ![OpenSchool-Apigateway](https://github.com/kdima90/OpenSchool-Apigateway/actions/workflows/github-actions.yml/badge.svg) https://github.com/kdima90/OpenSchool-Apigatway
+
+### infrastructure
+https://github.com/kdima90/OpenSchool-Infrastructure
