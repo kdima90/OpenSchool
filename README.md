@@ -17,5 +17,5 @@ Since project will be built with microservices you will find links to related se
 ### infrastructure
 https://github.com/kdima90/OpenSchool-Infrastructure
 
-## Current Overview
-![plot](./Overview%20Diagram.png)
+## Current Overview Diagram
+![plot](./OverviewDiagram.png)
