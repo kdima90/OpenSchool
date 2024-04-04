@@ -14,7 +14,7 @@ Since project will be built with microservices you will find links to related se
 ![OpenSchool-School](https://github.com/kdima90/OpenSchool-School/actions/workflows/github-actions.yml/badge.svg) https://github.com/kdima90/OpenSchool-School \
 ![OpenSchool-Apigateway](https://github.com/kdima90/OpenSchool-Apigateway/actions/workflows/github-actions.yml/badge.svg) https://github.com/kdima90/OpenSchool-Apigatway
 
-### infrastructure
+### Infrastructure
 https://github.com/kdima90/OpenSchool-Infrastructure
 
 ## Current Overview Diagram
