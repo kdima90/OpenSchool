@@ -1,7 +1,5 @@
 # OpenSchool
-
-Right now I have no time to manage this project and it is on hold.
-
+**Right now I have no time to manage this project and it is on hold.**
 This is assembly repository for OpenSchool project. 
 The OpenSchool is small project to manage school related data, like the amount of pupils, teachers, but also school as organisation itself. 
 
